@@ -14,5 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## I'm Taha!
+🔭 I’m currently working on Flutter
+🌱 I’m currently learning Swift
+🤔 I’m looking for help with Flutter Animations
+📫 How to reach me: @AytekinTaha on Twitter
 
 <a href="https://app.daily.dev/t13n"><img src="https://api.daily.dev/devcards/25eb1a9adb7a48fb9830a17e94b1eede.png?r=i3e" width="400" alt="Taha Emin Aytekin's Dev Card"/></a>
